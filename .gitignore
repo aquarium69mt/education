@@ -1,0 +1,15 @@
+
+.vscode/*
+.history/
+build/Debug/main.o
+build/Debug/outDebug
+.idea/education.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+build/Debug/example1.o
+build/Debug/example.o
+build/Release/example.o
+build/Release/example1.o
+calc/build/Debug/example.o
+calc/build/Debug/outDebug
